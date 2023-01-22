@@ -3,8 +3,9 @@
 ## Customer Stories
 
 - As a customer, so I can receive my tickets, I want to provide my contact information.
-- As a customer, so I can decide which movie I want to watch, I want to see a list of movies.
-- As a customer, so I can know which screen to watch the movie one, I want to see my screen number on my ticket.
+- As a customer, so i can pay, I want to provide payment information
+- As a customer, so I can decide which movie I want to see, I want to be able to see a list of movies
+- As a customer, I want to be able to choose the movie, screen and time.
 
 ## Admin Stories
 
