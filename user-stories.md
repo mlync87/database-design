@@ -2,10 +2,8 @@
 
 ## Customer Stories
 
-- As a customer, so I can receive my tickets, I want to provide my contact information.
-- As a customer, so i can pay, I want to provide payment information
-- As a customer, so I can decide which movie I want to see, I want to be able to see a list of movies
-- As a customer, I want to be able to choose the movie, screen and time.
+- As a customer, so I can receive my tickets, I want to provide my contact and payment information.
+- As a customer, so I can decide which movie I want to see, I want to be able to see a list of movies, start times, and screen info
 
 ## Admin Stories
 
@@ -15,9 +13,10 @@
 
 ## Domain Entities
 
-- Customer
-- Movie
-- Customer Info => account
+- Customers
+- Contacts
+- Movies
 - Tickets
-- Screen => showtimes
+- Screens
+- Screenings
 - Bookings
